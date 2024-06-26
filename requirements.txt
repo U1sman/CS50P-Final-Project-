@@ -1,0 +1,6 @@
+pytest
+tabulate
+questionary
+numpy
+pyfiglet
+termcolor
